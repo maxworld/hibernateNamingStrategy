@@ -1,0 +1,45 @@
+naming-strategy-prefix: prefix__
+naming-strategy-apply-on-string-with-substring: __c
+
+spring:
+  profiles:
+    active: test
+  banner:
+    location: classpath:banner.txt
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: com.example.namingstrategy.CustomPhysicalNamingStrategy
+server:
+  port: 8080
+  
+---
+
+spring:
+  profiles: local
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/naming_strategy_local?ssl=false&sslfactory=org.postgresql.ssl.NonValidatingFactory
+    username: postgres
+    password: root
+  jpa:
+    properties:
+      hibernate.jdbc.lob.non_contextual_creation: true
+---
+
+spring:
+  profiles: test
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/naming_strategy_test?ssl=false&sslfactory=org.postgresql.ssl.NonValidatingFactory
+    username: postgres
+    password: root
+  jpa:
+    properties:
+      hibernate.jdbc.lob.non_contextual_creation: true
+
+    
+      
+      
+      
+    

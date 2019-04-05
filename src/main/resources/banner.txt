@@ -1,0 +1,21 @@
+MMMMMMMM               MMMMMMMM                                                                               kkkkkkkk           
+M:::::::M             M:::::::M                                                                               k::::::k           
+M::::::::M           M::::::::M                                                                               k::::::k           
+M:::::::::M         M:::::::::M                                                                               k::::::k           
+M::::::::::M       M::::::::::M  aaaaaaaaaaaaa   yyyyyyy           yyyyyyy  aaaaaaaaaaaaa   nnnn  nnnnnnnn     k:::::k    kkkkkkk
+M:::::::::::M     M:::::::::::M  a::::::::::::a   y:::::y         y:::::y   a::::::::::::a  n:::nn::::::::nn   k:::::k   k:::::k 
+M:::::::M::::M   M::::M:::::::M  aaaaaaaaa:::::a   y:::::y       y:::::y    aaaaaaaaa:::::a n::::::::::::::nn  k:::::k  k:::::k  
+M::::::M M::::M M::::M M::::::M           a::::a    y:::::y     y:::::y              a::::a nn:::::::::::::::n k:::::k k:::::k   
+M::::::M  M::::M::::M  M::::::M    aaaaaaa:::::a     y:::::y   y:::::y        aaaaaaa:::::a   n:::::nnnn:::::n k::::::k:::::k    
+M::::::M   M:::::::M   M::::::M  aa::::::::::::a      y:::::y y:::::y       aa::::::::::::a   n::::n    n::::n k:::::::::::k     
+M::::::M    M:::::M    M::::::M a::::aaaa::::::a       y:::::y:::::y       a::::aaaa::::::a   n::::n    n::::n k:::::::::::k     
+M::::::M     MMMMM     M::::::Ma::::a    a:::::a        y:::::::::y       a::::a    a:::::a   n::::n    n::::n k::::::k:::::k    
+M::::::M               M::::::Ma::::a    a:::::a         y:::::::y        a::::a    a:::::a   n::::n    n::::nk::::::k k:::::k   
+M::::::M               M::::::Ma:::::aaaa::::::a          y:::::y         a:::::aaaa::::::a   n::::n    n::::nk::::::k  k:::::k  
+M::::::M               M::::::M a::::::::::aa:::a        y:::::y           a::::::::::aa:::a  n::::n    n::::nk::::::k   k:::::k 
+MMMMMMMM               MMMMMMMM  aaaaaaaaaa  aaaa       y:::::y             aaaaaaaaaa  aaaa  nnnnnn    nnnnnnkkkkkkkk    kkkkkkk
+                                                       y:::::y                                                                   
+                                                      y:::::y                                                                    
+                                                     y:::::y                                                                     
+                                                    y:::::y                                                                      
+                                                   yyyyyyy                                                                       
